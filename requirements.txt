@@ -1,0 +1,7 @@
+# Biblioteki używane w stacji odbiorczej i do analizy danych
+pyserial==3.5
+requests==2.28.1
+pandas==1.5.3
+numpy==1.24.2
+# Opcjonalnie, jeśli używałeś Flask/Django do strony WWW:
+# Flask==2.2.2
